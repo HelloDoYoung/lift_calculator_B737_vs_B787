@@ -1,1 +1,0 @@
-# lift_calculator_B737_vs_B787
