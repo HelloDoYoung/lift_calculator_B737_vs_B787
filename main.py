@@ -20,7 +20,7 @@ for aircraft, specs in aircrafts.items():
     lift = 0.5 * rho * (velocity_mps ** 2) * wing_area * cl
     plt.plot(velocity_knots, lift, label=aircraft)
 
-plt.title('Lift vs Velocity for B787 and B737')
+plt.title('Lift vlaues B738 vs B788')
 plt.xlabel('Velocity (knots)')
 plt.ylabel('Lift (N)')
 plt.legend()
